@@ -21,7 +21,7 @@ h1 {
     color: lightblue;
 }
 
-a {
+.favs a {
     color: lightblue;
     display: inline-block;
     font-size: 36px;
@@ -81,4 +81,11 @@ img {
     background-color: yellow;
     color: red;
     text-transform: uppercase;
+}
+
+footer {
+    color: black;
+    font-style: italic;
+    margin-top: 50px;
+    text-align: center;
 }
